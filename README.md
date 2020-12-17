@@ -1,2 +1,2 @@
 # This is my portfolio
-I have made this using html and jss
+I have made this using html and css.
