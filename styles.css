@@ -39,6 +39,7 @@ hr{
     border-radius:  0.5rem;
     color:white;
     
+    
 
 }
 .link-secondary{
@@ -149,7 +150,26 @@ hr{
 }
 
 
+/* styling for dummy images */
 
+.dummy-image{
+    max-width: 550px;
+    display: block;
+    margin:auto;
+}
+
+/* Placeholder for text area */
+
+textarea {
+    width:100%;
+    display:block;
+    height: 2.5rem;
+    margin:1rem;
+}
+
+
+
+    
 
 
 
